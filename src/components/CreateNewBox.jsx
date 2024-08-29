@@ -57,7 +57,7 @@ export default function CreateNewBox() {
 
   return (
     <div className="flex justify-center">
-      <div className="bg-bg2 p-8 rounded-lg shadow-md w-3/5 border border-bg3 max-w-4xl">
+      <div className="bg-bg2 p-8 rounded-lg shadow-md w-full md:w-3/5 border border-bg3 max-w-4xl">
         <h2 className="text-lg font-bold text-text1 text-center mb-4">ایجاد باکس جدید</h2>
         <div className="space-y-4">
           <div>
