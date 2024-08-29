@@ -152,7 +152,7 @@ export default function TableBoxNew() {
         <>
           <div className="fixed inset-0 bg-gray-900 bg-opacity-40 z-40"></div>
           <div className="fixed inset-0 flex items-center justify-center z-50">
-            <div className="bg-bg3 p-8 rounded-lg shadow-lg w-2/4 max-w-4xl">
+            <div className="bg-bg3 p-8 rounded-lg shadow-lg w-11/12 md:w-2/4 max-w-4xl">
               <h2 className="text-lg font-bold text-text1 text-center mb-4">ویرایش ارز</h2>
               <div className="space-y-4">
                 <div>
